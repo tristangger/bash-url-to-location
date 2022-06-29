@@ -1,0 +1,115 @@
+http://www.day.com/jcr/cq/1.0 - Germany
+http://www.jcp.org/jcr/1.0 - Germany
+http://www.jcp.org/jcr/mix/1.0 - Germany
+http://www.jcp.org/jcr/nt/1.0 - Germany
+https://prod.pszahlen.de - Germany
+https://sparkassen-mediacenter.de - Germany
+https://api.sparkassen-mediacenter.de - Germany
+https://filialsuche.sparkasse.de - Germany
+https://pcm-prod1.dsv-gruppe.de/pcm-webservices/ - Germany
+https://pcm-prod1.dsv-gruppe.de/pcm-webservices/smoke-test-pcm.jsp - Germany
+https://pcm-abna1.dsv-gruppe.de/pcm-webservices/ - Germany
+https://pcm-abna1.dsv-gruppe.de/pcm-webservices/smoke-test-pcm.jsp - Germany
+https://prod.oev.crednet.de - Germany
+https://int.oev.crednet.de - Germany
+https://int.oev.crednet.de - Germany
+https://prod.oev.crednet.de - Germany
+https://if.sparkassen-finanzportal.de/smp-feeds - Germany
+https://feeds.sparkassen-finanzportal.de - Germany
+https://feeds.sparkassen-finanzportal.de - Germany
+https://www.lbs.de - Germany
+https://prod.deka.crednet.de - Germany
+https://prod.oev.crednet.de - Germany
+https://banking.bayernlb.de - Germany
+https://banking.bayernlb.de - Germany
+https://pilot.extra.bayernlb.de - Germany
+https://www.bayernlb.de - Germany
+ - Germany
+https://sparkassen-mediacenter.de - Germany
+https://dev.sparkassen-mediacenter.de - Germany
+https://sparkasse.computercheck24.com - Germany
+https://int.computercheck24.com - Germany
+https://sparkassen-mediacenter.de - Germany
+https://api.sparkassen-mediacenter.de - Germany
+https://berat.neueleben.de - Germany
+https://berat.neueleben.de - Germany
+https://berat.entwicklung.neueleben.de - Germany
+https://prod.oev.crednet.de - Germany
+https://int.oev.crednet.de - Germany
+https://prod.oev.crednet.de - Germany
+https://int.oev.crednet.de - Germany
+https://berat.entwicklung.neueleben.de - Germany
+https://contentangebote.sparkasse.de - Germany
+https://karriere.sparkasse.de/ - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://banking.bayernlb.de - Germany
+https://pilot.extra.bayernlb.de - Germany
+https://sparkasse-service.adtelligence.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://prod.oev.crednet.de - Germany
+https://int.oev.crednet.de - Germany
+https://web.s-investor.de - Germany
+https://web.s-investor.de - Germany
+https://pnw-prod.if6.f-i-verbund.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://www.paydirekt.de - Germany
+https://qsu.gimb.noris.net - Germany
+ - Germany
+https://ws-netfix.wrz.de - Germany
+https://ws-netfix-test.wrz.de - Germany
+https://www.finance-service-broker.de/rest/if - Germany
+https://videoberatung.bw-bank.de - Germany
+https://test.videoberatung.bw-bank.de - Germany
+https://girocents.rheinlandmobil.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://web.s-investor.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://services.sparkasse-vor-ort.de - Germany
+https://connect.guidecom.de - Germany
+https://ifo.dl.crednet.de:444 - Germany
+https://ifouat2.dl.crednet.de:444 - Germany
+https://ifouat1.dl.crednet.de:444 - Germany
+https://ifosit3.dl.crednet.de:444 - Germany
+https://ifosit3.dl.crednet.de:444 - Germany
+https://pnw-y.if6.f-i-verbund.de - Germany
+https://pnw-x.if6.f-i-verbund.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+http://public.ekomi-test.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://ekomi.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://haspa.novomind.com - Germany
+https://livechat.haspa.de - Germany
+https://www.hamburgersparkasse.info - Germany
+https://livechat.haspa.de - Germany
+https://www.finance-service-broker.de/rest/if - Germany
+https://prod.oev.crednet.de - Germany
+https://int.oev.crednet.de - Germany
+https://tarifrechner.sparkassenversicherung.de - Germany
+https://tarifrechner-test.sparkassenversicherung.de - Germany
+https://api.solvemate.com - Germany
+https://prod.oev.crednet.de - Germany
+https://int.oev.crednet.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://proxy-immobilien.sparkasse.de - Germany
+ - Germany
+https://proxy-immobilien.sparkasse.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://gewinnspiele.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://gewinnspiele.sparkassen-finanzportal.de - Germany
+https://gewinnspiele.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://aktivplan-api.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://kwk-dev.dbc-gmbh.com - Germany
+https://kwk.dbc-gmbh.com - Germany
+https://if.sparkassen-finanzportal.de - Germany
+https://api.sparkassen-mediacenter.de - Germany
+https://if.sparkassen-finanzportal.de - Germany
